@@ -26,7 +26,15 @@ The first step was to scrap the tweets that will be used to train the model to b
  -  3-
  ### Sentiment Classification:
   - Textblob was used to classify and calculate sentiment to positive, negative and neutral tweets
-  - 
+ 
+ ### Visualization: 
+  - Wordcloud was used to visualize the sentiments from the tweets 
+ENTER THE VISUAL HERE 
+
+### Modeling: 
 
 
+### Deployment: 
+- Deployment using Streamlit is planned
+- 
 
