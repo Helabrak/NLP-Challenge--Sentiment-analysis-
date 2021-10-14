@@ -29,7 +29,9 @@ The first step was to scrap the tweets that will be used to train the model to b
  
  ### Visualization: 
   - Wordcloud was used to visualize the sentiments from the tweets 
-ENTER THE VISUAL HERE 
+  - ![Positive tweets](https://user-images.githubusercontent.com/84380899/137282109-c37b7747-7657-43b9-8b6a-16c6592ee350.png)
+  - ![image](https://user-images.githubusercontent.com/84380899/137282470-ac16b9ce-8ac2-4096-a105-03a8003502b9.png)
+
 
 ### Modeling: 
 
