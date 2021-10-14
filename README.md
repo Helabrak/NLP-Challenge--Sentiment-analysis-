@@ -1,4 +1,4 @@
-# NLP-Challenge--Sentiment-analysis
+# NLP-Challenge-Sentiment-analysis
 ## NETFLIX Squidgame 
 
 ### Introduction: 
