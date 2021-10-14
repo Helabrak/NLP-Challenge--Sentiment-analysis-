@@ -1,7 +1,7 @@
 # NLP-Challenge-Sentiment-analysis
 ## NETFLIX Squidgame 
 
-![image](https://user-images.githubusercontent.com/84380899/137283321-2b152515-74ea-49c6-b40b-0b2ccc80f4b1.png)
+        ![image](https://user-images.githubusercontent.com/84380899/137283680-1dd032af-895d-4656-939d-0ae38edd42c8.png)
 
 ### Introduction: 
 
