@@ -35,6 +35,7 @@ The first step was to scrap the tweets that will be used to train the model to b
 positive tweets:
   ![Positive tweets](https://user-images.githubusercontent.com/84380899/137282109-c37b7747-7657-43b9-8b6a-16c6592ee350.png)
  
+ 
  Negative tweets:
   ![negative tweets](https://user-images.githubusercontent.com/84380899/137283000-aa1313ce-871e-4f06-bd07-0731e41d821f.png)
 
