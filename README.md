@@ -39,8 +39,6 @@ positive tweets:
   - ![negative tweets](https://user-images.githubusercontent.com/84380899/137283000-aa1313ce-871e-4f06-bd07-0731e41d821f.png)
 
 
-### Modeling: 
-
 
 ### Deployment: 
 - Deployment using Streamlit is planned
