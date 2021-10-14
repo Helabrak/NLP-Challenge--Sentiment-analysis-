@@ -1,6 +1,8 @@
 # NLP-Challenge-Sentiment-analysis
 ## NETFLIX Squidgame 
 
+![image](https://user-images.githubusercontent.com/84380899/137283321-2b152515-74ea-49c6-b40b-0b2ccc80f4b1.png)
+
 ### Introduction: 
 
 Squid game series on Netflix is now trending with a strong buzz on social media and this project aimes at analysing audience tweets to evaluate audience perception for the series.
