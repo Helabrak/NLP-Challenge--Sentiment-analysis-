@@ -44,6 +44,6 @@ positive tweets:
 
 
 ### Deployment: 
-- Deployment using Streamlit is planned
+- Currently trying to use dash
 
 
